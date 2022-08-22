@@ -118,14 +118,14 @@ You may work with other students on lab activities.
 
 Any violation of the course's academic integrity policy will be referred to the Dean of Academic Affairs, and could have consequences ranging from a 0 on an assignment to dismissal from the college.
 
-'### Lab Policy
+### Lab Policy
 
-'In order to receive credit for completing a lab, you need to get a sign-off from your instructor *in person*.  There are two options for this:
+In order to receive credit for completing a lab, you need to get a sign-off from your instructor *in person*.  There are two options for this:
 
-'1. For 100% of full credit: Get a sign-off by the end of the *next* class (i.e., the class that follows the one in which we work on the lab in class.)
-'2. For 80% of full credit: Get a sign-off sometime before the next exam.
+1. For 100% of full credit: Get a sign-off by the end of the *next* class (i.e., the class that follows the one in which we work on the lab in class.)
+2. For 80% of full credit: Get a sign-off sometime before the next exam.
 
-'I *strongly* recommend that you work on the labs before you come to class, so that when you come to class, you have made a good start on it and are ready to ask questions about it.
+I *strongly* recommend that you work on the labs before you come to class, so that when you come to class, you have made a good start on it and are ready to ask questions about it.
 
 ### Late Assignments
 
