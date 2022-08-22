@@ -1,0 +1,4 @@
+baseurl: "//ycpcs.github.io/cs340-fall2022"
+markdown: kramdown
+highlighter: rouge
+coursename: "CS 340"
