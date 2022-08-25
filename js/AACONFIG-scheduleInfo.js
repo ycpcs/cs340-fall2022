@@ -2,6 +2,9 @@
 
 courseInfo.classPeriods = [
 	{
+		topic: new Topic("Lecture 0: Introduction to Programming Language and Design", ""),
+	},
+	{
 		topic: new Topic("Lecture 1: Syntax, Regular Languages and Regular Expressions", "lectures/lecture01.html"),
 		lab: new NumberedLabNoFile(1, "Regular expressions")
 	},
