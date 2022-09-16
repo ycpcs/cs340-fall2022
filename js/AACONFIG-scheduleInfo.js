@@ -25,6 +25,10 @@ courseInfo.classPeriods = [
 		lab: new NumberedLabNoFile(4, "Context-free grammars")
 	},
 	{
+		topic: new Topic("Lecture 4: Context-Free Languages, Parsing, Ambiguity (Continued)", "lectures/lecture04.html"),
+		lab: new NumberedLabNoFile(4, "Context-free grammars")
+	},
+	{
 		topic: new Topic("Lecture 5: Eliminating Ambiguity, Recursive Descent Parsing", "lectures/lecture05.html"),
 		lab: new NumberedLab(5, "Recursive Descent Parsing", "RecursiveDescentJava.zip")
 	},
