@@ -21,6 +21,10 @@ courseInfo.classPeriods = [
 		lab: new NumberedLabNoFile(3, "Eliminating nondeterminism")
 	},
 	{
+		topic: new Topic("Lecture 3: Designing Finite Automata, Eliminating Nondeterminism(Continued)", "lectures/lecture03.html"),
+		lab: new NumberedLabNoFile(3, "Eliminating nondeterminism")
+	},
+	{
 		topic: new Topic("Lecture 4: Context-Free Languages, Parsing, Ambiguity", "lectures/lecture04.html"),
 		lab: new NumberedLabNoFile(4, "Context-free grammars")
 	},
