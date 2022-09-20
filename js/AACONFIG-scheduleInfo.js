@@ -84,6 +84,13 @@ courseInfo.classPeriods = [
 		reading: "<i>CBT</i>, Chapter 4, pages 71–84"
 	},
 	{
+		topic: new Topic("Clojure review 1", ""),
+		lab: new NumberedLab(16, "Clojure review 1", "cs340-lab16.zip")
+	},
+	{
+		topic: new Topic("** Exam 2", "")
+	},
+	{
 		topic: new Topic("Lecture 16: Recursion and iteration", "lectures/lecture16.html"),
 		lab: new NumberedLabNoFile(14, "Recursion in Clojure"),
 		reading: "<i>CBT</i>, Chapter 5"
@@ -93,13 +100,7 @@ courseInfo.classPeriods = [
 		lab: new NumberedLabNoFile(15, "Clojure macros"),
 		reading: "<i>CBT</i>, Chapters 7-8"
 	},
-	{
-		topic: new Topic("Clojure review 1", ""),
-		lab: new NumberedLab(16, "Clojure review 1", "cs340-lab16.zip")
-	},
-	{
-		topic: new Topic("** Exam 2", "")
-	},
+
 	{
 		topic: new Topic("Project: Clojure Project", ""),
 		lab: new Lab("No lab", "")
