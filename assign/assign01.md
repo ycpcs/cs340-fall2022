@@ -170,9 +170,9 @@ You can use the [regexChecker.jar](../resources/regexChecker.jar) from [Lab 1](.
 Submitting
 ==========
 
-Submit your regular expression in a **plain text file** to Marmoset as **assign01**:
+Submit your regular expression in a **plain text file** to Canvas as **assign01**:
 
-> <https://cs.ycp.edu/marmoset>
+> <https://ycp.instructure.com/courses/>
 
 Use a text editor such as Notepad++ to create the plain text file.
 
