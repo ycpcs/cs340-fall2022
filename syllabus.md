@@ -83,9 +83,9 @@ Grades are assigned on a 100-point scale:
 
 Your overall grade for the course will be determined as follows:
 
--   Homework and programming assignments: 30%
--   Midterm exams: 40% (20% each)
--   Final exam: 20%
+-   Homework and programming assignments: 15%
+-   Midterm exams: 60% (30% each)
+-   Mini Project: 15%
 -   Quizzes, labs, attendance/participation: 10%
 
 ### Course website
