@@ -53,9 +53,9 @@ courseInfo.classPeriods = [
 		topic: new Topic("Lecture 9: Decidability of Regular Languages", "lectures/lecture09.html"),
 		lab: new Lab("No lab", "")
 	},
-	{
+	/*{
 		topic: new Topic("** Exam 1", "")
-	},
+	},*/
 	{
 		topic: new Topic("Lecture 10: Interpreters", "lectures/lecture10.html"),
 		lab: new NumberedLabNoFile(8, "Calculator implementation")
