@@ -43,6 +43,7 @@ courseInfo.classPeriods = [
 	{
 		topic: new Topic("Lecture 7: Turing Machines", "lectures/lecture07.html"),
 		lab: new NumberedLabNoFile(7, "Turing Machines")
+		topic: new Topic("** Exam 1", "")
 	},
 	{
 		topic: new Topic("Lecture 8: Decidability and the Halting Problem", "lectures/lecture08.html"),
