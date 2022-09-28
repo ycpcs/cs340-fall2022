@@ -38,6 +38,9 @@ courseInfo.classPeriods = [
 	},
 	{
 		topic: new Topic("Lecture 6: Precedence Climbing, Abstract Syntax Trees", "lectures/lecture06.html"),
+	},
+	{
+		topic: new Topic("In Class Exercise", ""),
 		lab: new NumberedLab(6, "Precedence Climbing", "PrecedenceClimbingJava.zip")
 	},
 	{
