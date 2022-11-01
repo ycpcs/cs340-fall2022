@@ -87,14 +87,7 @@ courseInfo.classPeriods = [
 		lab: new NumberedLab(13, "Tic Tac Toe", "cs340-lab13.zip"),
 		reading: "<i>CBT</i>, Chapter 4, pages 71–84"
 	},
-	{
-		topic: new Topic("Clojure review 1", ""),
-		lab: new NumberedLab(16, "Clojure review 1", "cs340-lab16.zip")
-	},
-	{
-		topic: new Topic("** Exam 2", "")
-	},
-	{
+		{
 		topic: new Topic("Lecture 16: Recursion and iteration", "lectures/lecture16.html"),
 		lab: new NumberedLabNoFile(14, "Recursion in Clojure"),
 		reading: "<i>CBT</i>, Chapter 5"
@@ -104,7 +97,13 @@ courseInfo.classPeriods = [
 		lab: new NumberedLabNoFile(15, "Clojure macros"),
 		reading: "<i>CBT</i>, Chapters 7-8"
 	},
-
+	{
+		topic: new Topic("Clojure review 1", ""),
+		lab: new NumberedLab(16, "Clojure review 1", "cs340-lab16.zip")
+	},
+	{
+		topic: new Topic("** Exam 2", "")
+	},
 	{
 		topic: new Topic("Project: Clojure Project", ""),
 		lab: new Lab("No lab", "")
@@ -121,22 +120,7 @@ courseInfo.classPeriods = [
 		topic: new Topic("Project Presentation: Clojure Project", ""),
 		lab: new Lab("No lab", "")
 	},
-	/*{
-		topic: new Topic("Lecture 22: More Erlang", "lectures/lecture22.html"),
-		lab: new NumberedLab(20, "Tail-recursive list merge in Erlang", "sort.erl")
-	},
-	{
-		topic: new Topic("Lecture 23: Concurrency in Erlang", "lectures/lecture23.html"),
-		lab: new Lab("No lab", "")
-	},
-	{
-		topic: new Topic("Lecture 24: Concurrency in Clojure", "lectures/lecture24.html"),
-		lab: new Lab("No lab", "")
-	},
-	{
-		topic: new Topic("Lecture 25: Agents in Clojure", "lectures/lecture25.html"),
-		lab: new Lab("No lab", "")
-	},*/
+	
 ];
 
 // The following is for the college-scheduled final exam.
